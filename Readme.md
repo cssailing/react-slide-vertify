@@ -18,14 +18,9 @@
 
 ## 效果图
 
-<div style="display: flex; gap: 20px;">
-  <div style="flex: 1;">
-    <img src="./public/success.png" alt="success" style="width: 100%;">
-  </div>
-  <div style="flex: 1;">
-    <img src="./public/verify.png" alt="verify" style="width: 100%;">
-  </div>
-</div>
+| Success | Verify |
+|---------|--------|
+| <img src="./public/success.png" alt="success" style="width: 100%;"> | <img src="./public/verify.png" alt="verify" style="width: 100%;"> |
 
 ---
 
